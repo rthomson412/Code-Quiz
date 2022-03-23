@@ -167,7 +167,7 @@ var saveScore = function () {
     highScores.push(scoreObj);
     document.querySelector("#score-form").reset();
     localStorage.setItem("scores", JSON.stringify(highScores));
-    document.location.href = "highscore.html";
+    document.location.href = "score.html";
   }
 };
 
