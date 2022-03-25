@@ -20,3 +20,4 @@ https://rthomson412.github.io/Code-Quiz/
 - Add media queries sizable for smaller devices
 - Refactor code
 
+![image](https://user-images.githubusercontent.com/96792780/160140700-7e40f6e3-8bc3-4d66-92f4-d692cc2ef7e4.png)
